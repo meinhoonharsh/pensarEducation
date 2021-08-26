@@ -8,6 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class Lesson extends Model
 {
     use HasFactory;
-    protected $fillable = ['name','topic','pdflink','_token'];
+    protected $fillable = ['name','topic','pdflink','videolink','quizdata'];
 
 }

@@ -44,6 +44,7 @@
                         ['Demo Students', 'demostudents', 'user'],
                         ['Students', 'students', 'user-check'],
                         ['Batches', 'batches', 'user-check'], 
+                        ['Enrollments', 'enrollements', 'user'],
                         ['Topics', 'topics', 'book'], 
                         ['Lessons', 'lessons', 'book-open'], 
                         ['Unlock Lesson', 'quizzes', 'file-text']];
